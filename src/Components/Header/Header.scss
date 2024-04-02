@@ -1,0 +1,18 @@
+.header{
+  height: 70px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  gap: 20px;
+  font-size: 26px;
+  .today-string{
+    color: #f3f3f3;
+  }
+
+  .today-data{
+    color: #0f4d8a;
+  }
+}

@@ -1,0 +1,54 @@
+.elements-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 20px;
+
+  .element {
+    height: 80px;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+
+    border-radius: 20px;
+    background: #f3f3f3;
+    box-shadow: 0px 5px 25px -15px rgb(0, 0, 0);
+
+    .element-city {
+      margin-left: 16px;
+      flex-grow: 1;
+
+      font-size: 26px;
+    }
+
+    .element-weather {
+      min-width: 80px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .element-weather__name {
+
+      }
+
+      .element-weather__value {
+        font-size: 26px;
+      }
+    }
+
+    .element-image {
+      height: 100%;
+    }
+
+    &:hover{
+      transition: ease 1ms;
+      transform: scale(1.03);
+
+    }
+  }
+}

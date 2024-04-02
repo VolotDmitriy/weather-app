@@ -1,0 +1,152 @@
+{
+  "Kyiv": {
+    "temp": 3.79,
+    "feels_like": 3.79,
+    "temp_min": 3.14,
+    "temp_max": 4.81,
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "wind": 0.89
+  },
+  "Kharkiv": {
+    "temp": 9.17,
+    "feels_like": 6.68,
+    "temp_min": 9.17,
+    "temp_max": 9.17,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 4.68
+  },
+  "Odesa": {
+    "temp": 4.08,
+    "feels_like": 0.83,
+    "temp_min": 4.08,
+    "temp_max": 4.08,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 3.83
+  },
+  "Dnipro": {
+    "temp": 10.96,
+    "feels_like": 9.42,
+    "temp_min": 10.96,
+    "temp_max": 10.96,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 5.14
+  },
+  "Lviv": {
+    "temp": 5.15,
+    "feels_like": 3.04,
+    "temp_min": 5.15,
+    "temp_max": 5.15,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 2.54
+  },
+  "Poltava": {
+    "temp": 10.2,
+    "feels_like": 8.71,
+    "temp_min": 10.2,
+    "temp_max": 10.2,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 5.5
+  },
+  "Александрия": {
+    "temp": 6.66,
+    "feels_like": 3.88,
+    "temp_min": 6.66,
+    "temp_max": 6.66,
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10d"
+      }
+    ],
+    "wind": 4.04
+  },
+  "Ужгород": {
+    "temp": 9.05,
+    "feels_like": 7.56,
+    "temp_min": 9.05,
+    "temp_max": 9.05,
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 2.7
+  },
+  "Кировоград": {
+    "temp": 4.31,
+    "feels_like": 1.64,
+    "temp_min": 4.31,
+    "temp_max": 4.31,
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "wind": 3.05
+  },
+  "Луцк": {
+    "temp": 3.41,
+    "feels_like": 1.29,
+    "temp_min": 3.41,
+    "temp_max": 3.41,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "wind": 2.21
+  }
+}

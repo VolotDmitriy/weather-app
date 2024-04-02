@@ -1,0 +1,98 @@
+[
+  {
+    "location": "NEW YORK",
+    "weather_name": "angry clouds",
+    "temperature": 20,
+    "imgSrc": "256/angry_clouds.png"
+  },
+  {
+    "location": "NEW YORK",
+    "weather_name":"angry clouds",
+    "temperature": 20,
+    "imgSrc": "256/angry_clouds.png"
+  },
+  {
+    "location": "PARIS",
+    "weather_name": "cloudy",
+    "temperature": 25,
+    "imgSrc": "256/cloudy.png"
+  },
+  {
+    "location": "LONDON",
+    "weather_name": "day rain",
+    "temperature": 18,
+    "imgSrc": "256/day_rain.png"
+  },
+  {
+    "location": "TOKYO",
+    "weather_name": "rain thunder",
+    "temperature": 22,
+    "imgSrc": "256/rain_thunder.png"
+  },
+  {
+    "location": "SYDNEY",
+    "weather_name": "mist",
+    "temperature": 23,
+    "imgSrc": "256/mist.png"
+  },
+  {
+    "location": "ROME",
+    "weather_name": "day clear",
+    "temperature": 15,
+    "imgSrc": "256/day_clear.png"
+  },
+  {
+    "location": "BEIJING",
+    "weather_name": "overcast",
+    "temperature": 16,
+    "imgSrc": "256/overcast.png"
+  },
+  {
+    "location": "MOSCOW",
+    "weather_name": "thunder",
+    "temperature": 10,
+    "imgSrc": "256/thunder.png"
+  },
+  {
+    "location": "BERLIN",
+    "weather_name": "windy",
+    "temperature": 19,
+    "imgSrc": "256/wind.png"
+  },
+  {
+    "location": "ISTANBUL",
+    "weather_name": "sunny",
+    "temperature": 21,
+    "imgSrc": "256/day_clear.png"
+  },
+  {
+    "location": "NEW DELHI",
+    "weather_name": "thunder",
+    "temperature": 27,
+    "imgSrc": "256/thunder.png"
+  },
+  {
+    "location": "MEXICO CITY",
+    "weather_name": "fog",
+    "temperature": 24,
+    "imgSrc": "256/fog.png"
+  },
+  {
+    "location": "SAO PAULO",
+    "weather_name": "sleet",
+    "temperature": 14,
+    "imgSrc": "256/sleet.png"
+  },
+  {
+    "location": "Cairo",
+    "weather_name": "rain thunder",
+    "temperature": 26,
+    "imgSrc": "256/rain_thunder.png"
+  },
+  {
+    "location": "CAPE TOWN",
+    "weather_name": "tornado",
+    "temperature": 30,
+    "imgSrc": "256/tornado.png"
+  }
+]
